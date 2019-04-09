@@ -1,0 +1,7 @@
+{
+  "name": "polymer_library",
+  "short_name": "polymer_library",
+  "description": "This is a sandbox project for generating a polymer component library",
+  "start_url": "/",
+  "display": "standalone"
+}
